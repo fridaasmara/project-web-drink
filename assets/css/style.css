@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.navbar {
+    background-color: #fff;
+}
+
+a.nav-link {
+    color: #2d2d22 !important;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-gambar {
+    height: 500px;
+}
+.row-container{
+    background-color: #fff;
+    margin: 0px
+}
+.card:hover{
+    border: 1px solid #2d2d22
+}
+
+footer {
+    background-color: rgb(252, 247, 247);
+}
